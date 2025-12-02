@@ -87,9 +87,22 @@ I'm building real-world defensive skills & tools while sharpening my offensive u
 
 ---
 
-# ⏱️ Coding Time Tracker
-*(Optional — works only if you use Wakatime)*  
-```md
+👤 Visitor Counter
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Hayshan56&label=Profile%20Views&color=0AF7FF&style=flat" />
 </p>
+---
+
+🌐 Connect
+
+🌎 LinkedIn: Click Here
+💾 GitHub: Hayshan56
+
+
+---
+
+<p align="center">
+  <img width="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0FFFA0&center=true&vCenter=true&width=500&lines=Always+Learning;Always+Building;Always+Improving" />
+</p>
+
