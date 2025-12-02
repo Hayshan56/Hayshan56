@@ -1,39 +1,41 @@
 <!-- Header Banner -->
-<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hayshan+Kannan;Cybersecurity+Enthusiast;Blue+Team+%7C+DFIR+%7C+SOC+Track;Building+Real+Cyber+Defense+Skills;Breaking+to+Learn+%7C+Learning+to+Defend" />
+<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hayshan+Kannan;Aspiring+Penetration+Tester;Red+Team+%7C+Offensive+Security;Learning+Real+Hacking+Skills;Breaking+To+Understand+%7C+Building+As+I+Grow" />
 
 ---
 
 # 🔐 About Me  
-I’m **Hayshan**, a fast-growing cybersecurity learner focusing on **Blue Team**, **Digital Forensics**, and **Threat Detection**.  
-I'm building real-world defensive skills & tools while sharpening my offensive understanding.
+I’m **Hayshan**, an upcoming cybersecurity learner focusing mainly on **Red Team**, **Pentesting**, and **Security Tools Development**.  
+I break things to learn how they work — and build tools along the way.
 
-- 🛡️ **Blue Team / SOC Analyst Track**  
-- 🧪 DFIR, Detection Engineering & Linux Security  
-- 🔥 Python Security Tool Development  
-- 🕵️ Practicing on **TryHackMe, LetsDefend, HTB Academy**  
-- 📚 Documenting everything I build as I grow
+- 🔴 **Penetration Testing Track** (Recon → Scanning → Exploitation → Post-Ex)  
+- 🧑‍💻 Building custom **Python security tools**  
+- 🕵️ Learning practical hacking on **TryHackMe & HackTheBox Academy**  
+- ⚙️ Exploring basic Blue Team concepts (log analysis, detection)  
+- 🚀 Improving every day, documenting everything
 
 ---
 
 # 🚀 Skills & Focus  
 | Domain | Skills |
 |--------|--------|
-| **Blue Team** | SIEM, Log Analysis, Threat Detection |
-| **Offensive Basics** | Recon, Scanning, Exploitation |
-| **DFIR** | Memory forensics, Disk analysis |
-| **Programming** | Python, Bash |
-| **Tools** | Wireshark, Volatility, Splunk, ELK, Nmap |
+| **Offensive Security** | Recon, Scanning, Exploitation, Enumeration |
+| **Pentesting Tools** | Nmap, Nikto, Gobuster, Hydra |
+| **Beginner Blue Team** | Basic Log Analysis, Basic Detection |
+| **Programming** | Python (Tools), Bash |
+| **General Skills** | Linux, Networking, Scripting |
 
 ---
 
 # 🧩 Featured Projects  
-🔹 **🔐 Encryption-Decryption Tool** – Python tool for secure message encryption  
-🔹 **🛡️ Password Strength Analyzer** – Instant security scoring  
-🔹 **New Projects Coming Soon…**  
-📌 SOC Automation Scripts  
-📌 Detection Rules  
-📌 Log Parsers  
-📌 Blue Team Tools
+🔹 **🔐 Encryption-Decryption Tool** – Python CLI tool  
+🔹 **🛡️ Password Strength Analyzer** – Instant scoring & tips  
+
+📌 **More Tools Coming Soon…**  
+- Pentest automation scripts  
+- Recon tools  
+- Directory brute-forcer  
+- Log parser  
+- Small security utilities  
 
 ---
 
@@ -54,13 +56,6 @@ I'm building real-world defensive skills & tools while sharpening my offensive u
 
 ---
 
-### 🔥 Languages Used
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayshan56&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophy Case
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hayshan56&theme=tokyonight&margin-w=10&no-frame=true" />
@@ -72,37 +67,34 @@ I'm building real-world defensive skills & tools while sharpening my offensive u
 
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
-### **Cybersecurity & Blue Team Tools**
+### **Security Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img width="65" src="https://img.shields.io/badge/Wireshark-1F425F?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img width="70" src="https://img.shields.io/badge/Volatility-007ACC?style=for-the-badge" />
-  <img width="70" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk" />
-  <img width="70" src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch" />
   <img width="65" src="https://img.shields.io/badge/Nmap-005C97?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img width="65" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img width="65" src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img width="65" src="https://img.shields.io/badge/Metasploit-2E74B5?style=for-the-badge" />
+  <img width="65" src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge" />
+  <img width="65" src="https://img.shields.io/badge/Hydra-00A86B?style=for-the-badge" />
 </p>
 
 ---
 
-👤 Visitor Counter
-
+👤 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hayshan56&label=Profile%20Views&color=0AF7FF&style=flat" />
 </p>
+
 ---
 
-🌐 Connect
-
-🌎 LinkedIn: Click Here
-💾 GitHub: Hayshan56
-
+# 🌐 Connect  
+🌎 **LinkedIn:** [Click Here](https://www.linkedin.com/in/hayshan-kannan-ab00b0354/)  
+💾 **GitHub:** [Hayshan56](https://github.com/Hayshan56)
 
 ---
 
 <p align="center">
   <img width="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0FFFA0&center=true&vCenter=true&width=500&lines=Always+Learning;Always+Building;Always+Improving" />
 </p>
-
