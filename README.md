@@ -3,19 +3,19 @@
 
 ---
 
-## 🔐 About Me  
+# 🔐 About Me  
 I’m **Hayshan**, a fast-growing cybersecurity learner focusing on **Blue Team**, **Digital Forensics**, and **Threat Detection**.  
-Right now, I’m building real-world defensive skills and tools while sharpening my offensive understanding.
+I'm building real-world defensive skills & tools while sharpening my offensive understanding.
 
 - 🛡️ **Blue Team / SOC Analyst Track**  
-- 🧪 Learning **DFIR, Detection Engineering & Linux Security**  
-- 🔥 Building custom security tools using **Python**  
-- 🔍 Practicing on **TryHackMe, LetsDefend, HackTheBox Academy**  
-- 👨‍💻 Documenting everything I build as I grow
+- 🧪 DFIR, Detection Engineering & Linux Security  
+- 🔥 Python Security Tool Development  
+- 🕵️ Practicing on **TryHackMe, LetsDefend, HTB Academy**  
+- 📚 Documenting everything I build as I grow
 
 ---
 
-## 🚀 Skills & Focus  
+# 🚀 Skills & Focus  
 | Domain | Skills |
 |--------|--------|
 | **Blue Team** | SIEM, Log Analysis, Threat Detection |
@@ -26,37 +26,70 @@ Right now, I’m building real-world defensive skills and tools while sharpening
 
 ---
 
-## 🧩 Featured Projects  
-🔹 **🔐 Encryption-Decryption Tool**  
-Python-based tool to encrypt & decrypt messages using secure algorithms.
-
-🔹 **🛡️ Password Strength Analyzer**  
-Evaluates password strength & gives instant recommendations.
-
+# 🧩 Featured Projects  
+🔹 **🔐 Encryption-Decryption Tool** – Python tool for secure message encryption  
+🔹 **🛡️ Password Strength Analyzer** – Instant security scoring  
 🔹 **New Projects Coming Soon…**  
-📌 Blue Team automations  
-📌 Log parser scripts  
-📌 Small SOC tools  
-📌 Detection rules
-
-Stay tuned — everything is leveling up fast.
+📌 SOC Automation Scripts  
+📌 Detection Rules  
+📌 Log Parsers  
+📌 Blue Team Tools
 
 ---
 
-## 📊 GitHub Activity  
+# 📊 GitHub Activity & Stats  
+
+### 🔥 Full Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayshan56&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hayshan56&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hayshan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hayshan56&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect  
-🌎 **LinkedIn:** [Click Here](https://www.linkedin.com/in/hayshan-kannan-ab00b0354/)  
-💾 **GitHub:** [Hayshan56](https://github.com/Hayshan56)
+### 🔥 Contribution Graph
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayshan56&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
+### 🔥 Languages Used
 <p align="center">
-  <img width="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0FFFA0&center=true&vCenter=true&width=500&lines=Always+Learning;Always+Building;Always+Improving" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayshan56&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy Case
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hayshan56&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+# ⚙️ Tech Stack & Cyber Tools  
+
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js" />
+</p>
+
+### **Cybersecurity & Blue Team Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img width="65" src="https://img.shields.io/badge/Wireshark-1F425F?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img width="70" src="https://img.shields.io/badge/Volatility-007ACC?style=for-the-badge" />
+  <img width="70" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk" />
+  <img width="70" src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch" />
+  <img width="65" src="https://img.shields.io/badge/Nmap-005C97?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+---
+
+# ⏱️ Coding Time Tracker
+*(Optional — works only if you use Wakatime)*  
+```md
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
